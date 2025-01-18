@@ -2,12 +2,6 @@
 
 This is a sample Slack app that sends news articles into Slack.
 
-![news-full-gif](https://user-images.githubusercontent.com/1818355/182757792-53223931-7f8d-4543-a15e-5b7699283d18.gif)
-
-For the full details on how this project works, check out the [tutorial](https://api.slack.com/tutorials/news-in-slack) on the Slack API site. Otherwise, continue reading.
-
-日本の方はこちらの記事をご覧ください：https://qiita.com/hello_jun/items/418cca89c52eea13a3fa
-
 ## Installation
 
 #### Creating and setting up your Slack App
